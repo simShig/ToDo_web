@@ -2,4 +2,3 @@ Do the laundry.
 Help the neighbour.
 Fix the bike.
 Learn Python.
-Design the next lectures
